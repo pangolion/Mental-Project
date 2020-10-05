@@ -1,0 +1,19 @@
+Background
+
+When we talk about mental health problems, some negative words, like crazy, stupid, or even retarded, will also jump into our minds. Even people with mild mental problems will also leave others with an unreliable and unstable impression, which will bring patients plenty of obstructs or even undermine their career development. Consequently, people who sought to have mental treatment suffered many biased and unfair experiences. Therefore people who have already had some abnormal mental condition will tend to conceal the fact of their abnormal condition.  In the long term, patients, normal people, companies, and even psychotherapists are negatively affected by this atmosphere. To better solve the problem, we think it is important to find out the factor that stops people from asking for help from the psychotherapist. This project aims to find out which kind of environment people do not tend to seek mental treatment. We will try to build up a model which will predict whether the people will seek mental treatment in the given environment. 
+
+
+Problem
+
+In the given dataset, the survey takers are ones who have mental health problems more or less. We can observe that a high rate of survey takers have not sought treatment for a mental health condition. Many other features of the interviewees’ are surveyed, such as the age of them, the country they live in, their genders and whether they have family history of mental illness. In our project, we want to apply data analysis models and techniques to investigate what features among those are influential factors to whether the patients are willing to gain treatment for mental health concerns. In the end, we want to use our trained model to predict whether a person tends to seek mental health treatment given other characteristics of him / her.
+
+
+Data
+
+We have downloaded two datasets that will be used to do the data analysis and train our model of prediction. The two datasets provide data of various features of a large number of people bothered by mental health problems in different years. 
+
+
+Mental Health in Tech Survey: In this dataset, nine features of the survey takers with mental health concern are collected. The features are the age and gender of the patients, the country and state the patients live in, if the person is self-employed, whether the person has family history of mental illness, the treatment, the work-interfere and the number of employees in their companies. 
+
+
+Mental Health in the Tech Industry: This dataset gives more information of the survey takers, which includes 105 questions responded by them. Among all the questions, there are not only questions with “Yes” or “No” answers, but also questions with short answers, which may need some analysis to the contexts in the data processing. 
